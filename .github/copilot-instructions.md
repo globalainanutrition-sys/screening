@@ -89,7 +89,7 @@ This is the screening repository for global nutrition systems. This repository i
 
 ## Additional Notes
 
-- This repository is in early stages of development
+- This repository is in early stage of development
 - Conventions may evolve as the project grows
 - When in doubt, follow established patterns in the existing codebase
 - Consult with the team for architectural decisions
